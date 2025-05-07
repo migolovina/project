@@ -1,5 +1,5 @@
 <picture align="center">
-  <img alt="Pandas Logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fshbpacademy.com%2Fru%2Fproekt-tseli-zadachi-i-ogranicheniya-treugolnik-upravleniya-proektami%2F&psig=AOvVaw1qKkvkgotzOkzGO6Rlz1ko&ust=1746709975671000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiy4PC3kY0DFQAAAAAdAAAAABAE">
+  <img alt="Pandas Logo" src="https://shbpacademy.com/ru/proekt-tseli-zadachi-i-ogranicheniya-treugolnik-upravleniya-proektami/">
 </picture>
 
 -----------------
