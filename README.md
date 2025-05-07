@@ -1,5 +1,5 @@
 <picture align="center">
-  <img alt="Pandas Logo" src="https://shbpacademy.com/ru/proekt-tseli-zadachi-i-ogranicheniya-treugolnik-upravleniya-proektami/">
+  <img alt="Pandas Logo" src="https://shbpacademy.com/wp-content/uploads/2023/01/Depositphotos_475507236_XL-840x450.jpg">
 </picture>
 
 -----------------
