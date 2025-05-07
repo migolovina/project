@@ -7,6 +7,7 @@
 # Прохождение внешнего курса на Stepik ("Введение в Linux")
 
 | | |
+| --- | --- |
 | Мой канал | [[Rutube](https://rutube.ru/plst/909045/)] |
 | Мой канал | [[plvideo](https://plvideo.ru/playlist?list=SuymwXRNSHg3)] |
 | Мой github | [[GitHub](https://github.com/migolovina/)]|
